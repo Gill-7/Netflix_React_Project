@@ -4,7 +4,6 @@ import {
     Container,
     Overlay,
     Inner, 
-    Close,
     Button
 } from './styles/Player'
 
